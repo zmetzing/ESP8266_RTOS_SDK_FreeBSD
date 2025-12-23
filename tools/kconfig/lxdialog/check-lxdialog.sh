@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 # Check ncurses compatibility
 
 # What library to link
